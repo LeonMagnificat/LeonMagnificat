@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://leon-lime.vercel.app/)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://leon-lime.vercel.app/)
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonmagnificat&label=Profile%20views&color=0e75b6&style=flat" alt="leonmagnificat" /> </p>
 
