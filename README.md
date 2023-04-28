@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://leon-lime.vercel.app/)
+
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
